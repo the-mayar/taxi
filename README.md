@@ -1,7 +1,7 @@
 # NYC Taxi (Work in Progress)
 
 This is an early-stage project where I'm exploring New York City yellow taxi trip data from January 2024.  
-WE WANT to find patterns in how people use taxis — where and when trips happen, how long they take, and more.
+We want to find patterns in how people use taxis — where and when trips happen, how long they take, and more.
 
 **Project Goal:**  
 Predict the average amount of money spent on a casual taxi ride in NYC for each region, given a specific date and hour — so that taxi drivers can better understand when and where to operate.
