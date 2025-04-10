@@ -1,4 +1,4 @@
-# NYC Taxi Data (Work in Progress)
+# NYC Taxi (Work in Progress)
 
 This is an early-stage project where I'm exploring New York City yellow taxi trip data from January 2024.  
 WE WANT to find patterns in how people use taxis — where and when trips happen, how long they take, and more.
